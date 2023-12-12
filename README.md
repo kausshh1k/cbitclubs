@@ -1,16 +1,5 @@
 # cbitclubs
 
-A new Flutter project.
+Intra-college club's bulletin at Chaitanya Bharathi Institute of Technology, Hyderabad.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Frame 7](https://github.com/kausshh1k/cbitclubs/assets/120456820/206f7960-c1ee-4826-9350-c874d4a0f600)
